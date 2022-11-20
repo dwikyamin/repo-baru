@@ -1,0 +1,4 @@
+Ini ada catatan lain:
+- ketika membuat branch baru dari branch master, maka isi (file, folder, dll) yang ada di branch master akan menduplikasi ke branch yang barusan dibuat
+- maka branch baru tadi, terlihat sama dengan branch master
+- beda lagi kalau ada file baru di branch baru. Maka akan ada perbedaan diantara 2 branch tersebut
