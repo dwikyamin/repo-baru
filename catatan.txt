@@ -4,4 +4,5 @@ CATATAN UNTUK MEMBUAT REPO BARU
 3. Login akun yang sudah dibuat sebelumnya
 4. Klik tombol "Add new repository"
 5. Setelah itu, akan muncul form untuk membuat repo
-6. Isi form tersebut seperti nama repo, deskripsi, tipe repo (public / private), dan sebagainya
+6. Isi form tersebut seperti nama repo, deskripsi, tipe repo (public / private)
+7. blablablbla
