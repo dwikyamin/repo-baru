@@ -1,0 +1,4 @@
+CATATAN UNTUK MEMBUAT REPO BARU
+1. Registrasi akun github
+2. Setelah registrasi, lakukan validasi
+3. Login akun yang sudah dibuat sebelumnya
